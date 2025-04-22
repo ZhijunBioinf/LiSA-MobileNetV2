@@ -4,11 +4,11 @@
 **"An Enhanced Lightweight CNN Model for Rice Disease Recognition and Deployment"** (submitted to *MDPI Agriculture*).
 <p style="float: center">
   <img src="images/LiSA-MobileNetV2-architecture.jpg" alt="Architecture of LiSA-MobileNetV2" />
-  <div align="center">(A)</div>
+  <div align="center">(A) Architecture of LiSA-MobileNetV2</div>
 </p>
 <p style="float: center">
   <img src="images/SE-attention-mechanism.png" alt="Diagram of SE attention mechanism" />
-  <div align="center">(B)</div>
+  <div align="center">(B) Diagram of SE attention mechanism</div>
 </p>
 
 ##  Repository Structure
