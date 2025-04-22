@@ -39,7 +39,7 @@ The dataset includes 10 rice disease categories:
 
 Detailed description is in `data/README.md`.
 
-##  Model: LiSA-MobileNetV2 (see details: [model_info.md](!model/model_info.md))
+##  Model: LiSA-MobileNetV2 (see details: [model_info.md](model/model_info.md))
 
 LiSA-MobileNetV2 is an improved version of MobileNetV2 incorporating the following enhancements:
 
