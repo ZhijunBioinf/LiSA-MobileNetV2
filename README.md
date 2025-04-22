@@ -1,7 +1,7 @@
 
-# An improved MobileNetV2 model for rice disease classification by employing Lightweight structural optimization, Swish activation function, and Attention mechanism.
+# LiSA-MobileNetV2: An improved MobileNetV2 model for rice disease classification by employing Lightweight structural optimization, Swish activation function, and Attention mechanism.
 
-**"LiSA-MobileNetV2: An Enhanced Lightweight Model for Rice Disease Recognition and Deployment"** (submitted to *MDPI Agriculture*).
+**"An Enhanced Lightweight CNN Model for Rice Disease Recognition and Deployment"** (submitted to *MDPI Agriculture*).
 <p style="float: center">
   <img src="images/LiSA-MobileNetV2-architecture.jpg" alt="Architecture of LiSA-MobileNetV2" />
   <div align="center">(A)</div>
