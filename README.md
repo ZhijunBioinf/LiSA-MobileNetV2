@@ -37,7 +37,6 @@ The dataset includes 10 rice disease categories:
 - normal  
 - tungro  
 
-Detailed description is in `data/README.md`.
 
 ##  Model: LiSA-MobileNetV2 (see details: [model_info.md](model/model_info.md))
 
