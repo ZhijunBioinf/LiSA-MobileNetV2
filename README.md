@@ -49,7 +49,7 @@ LiSA-MobileNetV2 is an improved version of MobileNetV2 incorporating the followi
 
 The model achieves improved accuracy and lightweight performance, suitable for mobile deployment.
 
-The final model is exported as a TensorFlow Lite file: `LiSA-MobileNetV2.tflite`.
+The final model is exported as a TensorFlow Lite file: `LiSA-MobileNetV2.h5`.
 
 ##  Reproducibility
 
