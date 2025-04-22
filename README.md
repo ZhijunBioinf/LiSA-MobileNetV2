@@ -58,6 +58,7 @@ To reproduce the training process:
 ```bash
 pip install -r requirements.txt
 python scripts/train.py  
+```
 
 ##  Contributors
 
@@ -66,4 +67,4 @@ This project was developed by:
 - Yongqi Xu ([xuyongqi@stu.hunau.edu.cn](mailto:xuyongqi@stu.hunau.edu.cn)) - Implementing
 - Zhijun Dai ([daizhijun@hunau.edu.cn](mailto:daizhijun@hunau.edu.cn)) - Supervisor
 
-We welcome contributions from the community! Feel free to submit pull requests or raise issues.
+**We welcome contributions from the community! Feel free to submit pull requests or raise issues.**
